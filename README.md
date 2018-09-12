@@ -16,3 +16,7 @@ pip install google-search
 
 pip install tk
 
+https://railwayapi.com/api/
+
+register here get a api key and  paste that api key in train.py file 
+
