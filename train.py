@@ -6,7 +6,7 @@ from datetime import datetime
 import calendar
 
 global api_key
-api_key = "b9ck4em1cm"
+api_key = "Your API key"
 def u1():
 	global roota1
 	roota1 = Toplevel()
